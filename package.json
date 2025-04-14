@@ -10,7 +10,7 @@
     "@auth/core": "^0.38.0"
   },
   "devDependencies": {
-    "@types/node": "^22.14.0",
+    "@types/node": "^22.14.1",
     "h3": "^1.15.1",
     "nitropack": "^2.11.8",
     "typescript": "^5.8.3"
