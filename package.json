@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
-    "h3": "^1.15.1",
+    "h3": "^1.15.3",
     "nitropack": "^2.11.8",
     "typescript": "^5.8.3"
   },
